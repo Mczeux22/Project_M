@@ -17,7 +17,6 @@ Implémenter spawn basique de mobs autour du joueur
 Créer IA ennemie basique (follow player)
 Setup hitbox système simple
 Setup base serveur (réplication propre Roblox)
-System "Time Freeze" quand le joueur level up
 
 ### Added
 
@@ -52,6 +51,8 @@ Projectile Count
 XP Gain
 Luck
 Projectile Speed
+System "Time Freeze" quand le joueur level up
+
 
 ### Added
 
