@@ -11,8 +11,6 @@ h
 **Status:** ⏳ Planned
 
 🟡 TO DO (à faire)
-Créer le système de déplacement joueur (base + smooth)
-Créer le système de spawn joueur dans l’arène
 Implémenter combat automatique / semi-automatique
 Créer système HP joueur + ennemis
 Implémenter spawn basique de mobs autour du joueur
