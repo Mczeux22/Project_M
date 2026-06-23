@@ -73,6 +73,20 @@ Projectile Speed
 
 **Status:** ⏳ Planned
 
+🟡 TO DO
+
+Créer système de types d’ennemis :
+Common mobs
+Tank mobs
+Fast mobs
+Elite mobs
+Créer système de boss :
+Boss 1 à 4 min
+Boss 2 à 8 min
+Système de drops boss
+Système de récompense fin de run
+Balancing difficulté globale
+
 ### Added
 
 * [ ] Fonctionnalité à définir
