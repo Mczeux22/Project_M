@@ -37,6 +37,7 @@ Setup base serveur (réplication propre Roblox)
 ## 🎯 Version 0.2.0 - Core Features
 
 **Status:** ⏳ Planned
+
 🟡 TO DO
 Système d’XP + Leveling
 Système de gain XP sur kill
