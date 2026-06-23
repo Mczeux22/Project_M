@@ -101,15 +101,6 @@ Monnaie gagnée en fin de partie :
 
 ---
 
-## 🗺️ 8. Design de map
-
-* Arène principale fermée
-* Zones de spawn ennemis dynamiques
-* Espaces ouverts pour kite les ennemis
-* Visibilité claire (pas trop de clutter)
-* Lecteur de gameplay fluide (aucun obstacle inutile)
-
----
 
 ## ⚖️ 9. Équilibrage
 
