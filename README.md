@@ -85,7 +85,7 @@ Boss 1 à 4 min
 Boss 2 à 8 min
 Système de drops boss
 Système de récompense fin de run
-Balancing difficulté globale
+Montée en difficulté constante
 
 ### Added
 
