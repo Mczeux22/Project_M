@@ -109,7 +109,7 @@ Balancing difficulté globale
 🟡 TO DO
 
 Système de rewards fin de run complet
-Shop progression permanente
+Shop, progression permanente
 Gamepasses :
 XP boost
 Luck boost
