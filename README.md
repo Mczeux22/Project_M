@@ -106,6 +106,16 @@ Balancing difficulté globale
 
 **Status:** ⏳ Planned
 
+🟡 TO DO
+
+Système de rewards fin de run complet
+Shop progression permanente
+Gamepasses :
+XP boost
+Luck boost
+Système revive (1 par run)
+
+
 ### Added
 
 * [ ] Fonctionnalité à définir
